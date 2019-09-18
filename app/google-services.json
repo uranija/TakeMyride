@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "963214537271",
+    "firebase_url": "https://ridingapp-17ca2.firebaseio.com",
+    "project_id": "ridingapp-17ca2",
+    "storage_bucket": "ridingapp-17ca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963214537271:android:8277912d374ac479",
+        "android_client_info": {
+          "package_name": "com.example.android.takemyride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963214537271-7akt11njp39ial6s310g7d37qmr78d6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.takemyride",
+            "certificate_hash": "ad972a1cc39b93d8c22a10068934e46e6256dae7"
+          }
+        },
+        {
+          "client_id": "963214537271-f20l5rqho88r4t2kp7r58r49kpj1041b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVyl7Ofzjm8AnAqZyEB9or8pCSVW30Bso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963214537271-f20l5rqho88r4t2kp7r58r49kpj1041b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
