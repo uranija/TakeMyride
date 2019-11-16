@@ -235,7 +235,7 @@ public class DriverMapActivity extends FragmentActivity implements OnMapReadyCal
     private void getRouteToMarker(LatLng pickupLatLng) {
         if (pickupLatLng != null && mLastLocation != null){
             Routing routing = new Routing.Builder()
-                    .key("AIzaSyB6l4rFARUl2fGqEd_EzIgc68M3HKv3u3k")
+                    .key("Api-key")
                     .travelMode(AbstractRouting.TravelMode.DRIVING)
                     .withListener(this)
                     .alternativeRoutes(false)
