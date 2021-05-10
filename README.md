@@ -10,3 +10,7 @@ Platform- maps API, places API, directions API.
 A person who uses ride-sharing services and wants to save mony
 
 
+![pirmas](https://user-images.githubusercontent.com/26045797/117733002-80c06e80-b1f9-11eb-9fdb-e4b40ded7b78.jpg)
+![antras](https://user-images.githubusercontent.com/26045797/117733018-85852280-b1f9-11eb-91e8-370f30c2444b.jpg)
+![trecias](https://user-images.githubusercontent.com/26045797/117733046-933aa800-b1f9-11eb-9eb7-f9ed32e6619a.jpg)
+![penktas](https://user-images.githubusercontent.com/26045797/117733068-9c2b7980-b1f9-11eb-979b-8a88f035d91b.jpg)
